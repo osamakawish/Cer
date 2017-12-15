@@ -2,7 +2,18 @@
 
 ## Our Pledge
 
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone. All that we will show concern for 
+
+## Our Principles
+
+We live by two essential principles:
+
+1. Do what you want.
+2. Want what is right.
+
+(1) suggests the importance of action of doing, while (2) suggests the mentality to do what is right.
+
+This is by no means comprehensive, so much as it is a simple starting point to act on what's right. We do not entirely expect you to entirely ignore any means of following any sort of rules and regulations when we request you to follow (1). Wanting what is right is wanting to follow the rules and regulations so long as you consider it right to do so. If you don't we request that you discuss why for potential changes.
 
 ## Our Standards
 
